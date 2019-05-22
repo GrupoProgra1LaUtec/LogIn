@@ -1,0 +1,10 @@
+C:\Users\Amilcar Henriquez\AppData\Local\Temporary Projects\LogIn\bin\Debug\LogIn.exe.config
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\bin\Debug\LogIn.exe.config
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\bin\Debug\LogIn.exe
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\bin\Debug\LogIn.pdb
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.exe
+J:\Amilcar Henriquez\Documents\UTEC\2019\Programacion I\Proyecto\LogIn\LogIn\obj\Debug\LogIn.pdb
